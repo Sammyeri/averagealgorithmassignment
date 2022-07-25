@@ -1,0 +1,12 @@
+7/24/2022
+pseudo code for average algorithm assignment
+
+START
+input array
+set sum = 0
+loop through array elements
+	if element > 0
+		sum += sum
+average = sum / array length
+output average
+END
